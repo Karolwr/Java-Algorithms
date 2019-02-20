@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c7ef9cc-5307-42f5-95b7-f8533ff61cbc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAlgorithms/Z1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAlgorithms/z1/Algorithms1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAlgorithms/z1/Algorithms1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAlgorithms/z1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAlgorithms/z1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Z1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/z1/Algorithms1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z1/Algorithms1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/z1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/z1/Main.java" afterDir="false" />
     </list>
@@ -22,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/z1/Algorithms1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+            <state relative-caret-position="248">
+              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -31,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/z1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+            <state relative-caret-position="218">
+              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -98,7 +93,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550659968135" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550661219205" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,15 +190,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/z1/Algorithms1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        <state relative-caret-position="248">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/z1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        <state relative-caret-position="218">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
         </state>
       </provider>
     </entry>

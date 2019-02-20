@@ -9,6 +9,10 @@ public class Main {
         System.out.println("Suma altSequence: " + a.altSequence(2,2,4));
         System.out.println("Cy doskonała: " + a.perfectNumber(11));
         System.out.println("Cy doskonała: " + a.perfectNumber(28));
+        System.out.println("NWD" + a.getNWD(12,9));
+        System.out.println("NWD" + a.getNWD(11,13));
+        System.out.println("NWD" + a.getNWD(6,12));
+
 
     }
 }
